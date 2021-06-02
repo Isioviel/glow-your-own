@@ -1,5 +1,5 @@
 // constants won't change. 
-const int buttonPin = 3;    
+const int buttonPin = 4;    
 const int ledPin1 =  10;     
 const int ledPin2 =  11;      
 
