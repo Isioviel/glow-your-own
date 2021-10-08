@@ -1,0 +1,19 @@
+// Circuit: https://www.tinkercad.com/things/eBf8isdrb3J
+
+// C++ code
+//
+void setup()
+{
+  pinMode(3, INPUT);
+  pinMode(2, OUTPUT);
+}
+
+void loop()
+{
+  while (1 == 1) {
+    if (digitalRead(3) == 1) {
+      tone(2, 523, 1000); // play tone 60 (C5 = 523 Hz)
+    }
+  }
+  delay(10); // Delay a little bit to improve simulation performance
+}
