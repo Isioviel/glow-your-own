@@ -1,3 +1,6 @@
+// Circuit 1: https://www.tinkercad.com/things/7shuZRICMnC
+// Circuit 2: https://www.tinkercad.com/things/1i3R4UxwGrk
+
 // C++ code
 //
 void setup()
